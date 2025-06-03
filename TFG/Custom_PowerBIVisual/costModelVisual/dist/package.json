@@ -1,0 +1,17 @@
+{
+		"version": "1.0.0.0",
+		"author": {"name":"Andres Goberna Fresneda","email":"andresgoberna@uoc.edu"},
+		"resources": [
+			{
+				"resourceId": "rId0",
+				"sourceType": 5,
+				"file": "resources/costModelVisualCC57A86EE3354662871A1724816ABEF2.pbiviz.json"
+			}
+		],
+		"visual": {"name":"costModelVisual","displayName":"costModelVisual","guid":"costModelVisualCC57A86EE3354662871A1724816ABEF2","visualClassName":"Visual","version":"1.0.0.0","description":"Stacked area chart visual for fixed and variable costs.","supportUrl":"mailto:andresgoberna@uoc.edu","gitHubUrl":""},
+		"metadata": {
+			"pbivizjson": {
+				"resourceId": "rId0"
+			}
+		}
+	}

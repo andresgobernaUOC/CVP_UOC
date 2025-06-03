@@ -1,0 +1,5 @@
+businessRuleID,businessRuleName,businessRuleDescription
+1,NoNegativeInput,Dont allow negative inputs
+1,NoNegativeOutput,Dont allow negative solutions
+1,MaxSolution,Dont allow solutions > min observation value
+2,NoNegativeInput,Dont allow negative inputs
