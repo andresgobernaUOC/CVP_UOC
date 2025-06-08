@@ -1,0 +1,8 @@
+model_CMD.exe ..\SourceData\D0_Source.csv 3 2 2 "TS03"
+model_CMD.exe ..\SourceData\D0_Source.csv 6 2 2 "TS06"
+model_CMD.exe ..\SourceData\D0_Source.csv 9 2 2 "TS09"
+model_CMD.exe ..\SourceData\D0_Source.csv 12 2 2 "TS12"
+model_CMD.exe ..\SourceData\D0_Source.csv 3 3 3 "PG03"
+model_CMD.exe ..\SourceData\D0_Source.csv 6 3 6 "PG06"
+model_CMD.exe ..\SourceData\D0_Source.csv 9 3 9 "PG09"
+model_CMD.exe ..\SourceData\D0_Source.csv 12 3 12 "PG12"
